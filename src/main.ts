@@ -1,7 +1,6 @@
 import Vue from "vue";
 import "@mdi/font/css/materialdesignicons.min.css";
 import Buefy from "buefy";
-import "buefy/dist/buefy.css";
 import App from "./App.vue";
 import router from "./router";
 import store from "./store";
